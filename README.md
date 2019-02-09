@@ -103,9 +103,9 @@
  ---
 
 ### 自用  
-  ---
+ ---
 
-yumup  
-* yum更新用script  
+  * yumup  
+    * yum更新用script  
 
-  ---
+ ---
